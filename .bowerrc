@@ -1,0 +1,5 @@
+{
+  "directory": "bower_components",
+  "registry": "http://localhost:5678",
+  "strict-ssl": false
+}
