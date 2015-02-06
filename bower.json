@@ -9,7 +9,8 @@
 			".jshintrc",
 			"**/*.txt",
 			"**/*.",
-			"templateEx1/app"
+			"templateEx1/app",
+			"**/node_modules"
 		],
 	"dependencies": {
 		"jquery" : ">=1.10.2"
